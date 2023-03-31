@@ -1,2 +1,3 @@
 #!bin/bash
-chown vincent:staff *
+sudo chgrp -R vincent
+sudo chdrp -R staff
